@@ -1,0 +1,11 @@
+plan is to make a site where sellers with verified mobile phones can send us product images and desicription
+we use api and chatgpt to make evrything look new squekky clean,fresh
+aue ai to understand their behavour sot of like akinator from the data collected by all the peopel visiting our site
+
+generate.py --> generate unique text based on the request
+main.py --> handle front end also for now, but main purpose is api where a unique request can be sent every time with customization prompt
+talk.py -->python chatbot for interacting with sellers on platform
+learn.py -->scripts for learning current trends and what the people in the market are interested in,sort of a webscrapper that scraps facebook and insta and blobs and socials,also can learn from contractors
+record.py --> script for recording people's behavour on site
+goodimg.py --> script to make a decent photo better, ai enhansment,background remove, animate and more
+connect.py -->script for handing freelancers dedicated to make a sale occur typist,photographers,sales person,analyst etc
